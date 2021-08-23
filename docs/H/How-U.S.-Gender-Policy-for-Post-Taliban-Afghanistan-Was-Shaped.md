@@ -3,7 +3,7 @@ layout: default
 title: § How U.S. Gender Policy for Post-Taliban Afghanistan Was Shaped  
 parent: H 
 has_children: true
-nav_order: 9791015
+nav_order: 9790419
 ---
 <style>
 .dont-break-out {
